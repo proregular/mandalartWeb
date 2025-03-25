@@ -20,9 +20,6 @@
 - Java 11 openjdk
 - SpringBoot 3.3.6
 - Mybatis
-- jjwt:0.12.6
-- hibernate-60:3.9.1(JPA)
-- SpringSecurity
 
 #### Build tool
 Gradle
